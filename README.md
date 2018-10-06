@@ -1,6 +1,6 @@
 # TUNA Issues
 
-[点此提交Issue](https://github.com/tuna/issues/issues/new)
+[点此提交Issue](https://github.com/SCU-MingYuan/issues/issues/new)
 
 - Mirror Requests 镜像请求
 - Service Issues 服务故障
